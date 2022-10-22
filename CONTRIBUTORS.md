@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Matheesha Official](https://github.com/MatheeshaOfficial))
+- Place: Delhi, India
+- Bio: 5th semester IT Undergrad. Machine Learning enthusiast. Black coffee <3
+- GitHub: [Matheesha official](https://github.com/MatheeshaOfficial))
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
